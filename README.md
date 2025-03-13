@@ -1,4 +1,4 @@
 # This is my Local Repo
-hi tis is Adityam kumar sharma
-# i am form bihar samastipur 
+hi this is Adityam kumar sharma
+ i am form bihar samastipur 
 
